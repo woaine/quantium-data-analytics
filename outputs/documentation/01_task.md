@@ -64,3 +64,15 @@ As we are in the early stages of this analysis Zilinka has asked us to submit ou
 Note: that this is an open-ended case study that can be approached in many ways. Example answer is in R.
 
 ## Here are some resources to help you
+
+- [QVI Transaction Data](https://github.com/woaine/quantium-data-analytics/blob/020eb1c29fdc8d037d780562f8fedc73c142468a/data/raw/QVI_transaction_data.xlsx)
+- [QVI Purchase Behaviour](https://github.com/woaine/quantium-data-analytics/blob/020eb1c29fdc8d037d780562f8fedc73c142468a/data/raw/QVI_purchase_behaviour.csv)
+- [R Solution Template](https://github.com/woaine/quantium-data-analytics/blob/1c23741c2738e038053b563e71292bf14588a15a/data/raw/InsideSherpa_Task1_DraftSolutions%20-%20Template.pdf)
+
+`LIFESTAGE`: Customer attribute that identifies whether a customer has a family or not and what point in life they are at e.g. are their children in pre-school/primary/secondary school.
+
+`PREMIUM_CUSTOMER`: Customer segmentation used to differentiate shoppers by the price point of products they buy and the types of products they buy. It is used to identify whether customers may spend more for quality or brand or whether they will purchase the cheapest options.
+
+Pro analytics Tip: While the data set would not normally be considered large some operations may still take some time to run. 
+
+This is normal and to be expected when dealing with data sets at Quantium. Whilst your analysis is based on the whole data set you may want to try some strategies to try running sample solutions on a smaller subset of data I.e. create a sample solution using some of the data while it uploads.
